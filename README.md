@@ -39,7 +39,7 @@ devtools::install_github("openpharma/benchtm")
 ## How to use the package
 
 An .html vignette with introduction to package can be previewed
-[here](https://htmlpreview.github.io/?https://raw.githubusercontent.com/openpharma/benchtm/master/docs/articles/index.html).
+[here](https://raw.githack.com/openpharma/benchtm/master/docs/articles/index.html).
 
 ## Contact us
 
