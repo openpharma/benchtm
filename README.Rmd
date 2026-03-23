@@ -23,7 +23,7 @@ knitr::opts_chunk$set(
 </colgroup>
 <tr>
 <td align = "left">
-<h3> The <code>{benchtm}</code> aims to generate simulated data sets of heterogeneous treatment effects in clinical trials for benchmarking quantitaive methods. </h3>
+<h3> The <code>{benchtm}</code> aims to generate simulated data sets of heterogeneous treatment effects in clinical trials for benchmarking quantitative methods. </h3>
 </td>
 <td align="center">
 <img src='man/figures/logo.png' align="right" />
@@ -48,14 +48,10 @@ devtools::install_github("openpharma/benchtm")
 ```
 
 ## How to use the package
-An .html vignette with introduction to package can be previewed [here](https://raw.githack.com/openpharma/benchtm/master/docs/articles/index.html).
+An .html vignette with introduction to package can be previewed [here](https://openpharma.github.io/benchtm/articles/index.html).
 
 
 ## Contact us
 - For any questions, please contact: [Sophie Sun](mailto:sophie.sun@novartis.com)
-
-
-
-
 
 

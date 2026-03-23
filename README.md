@@ -15,7 +15,7 @@
 <h3>
 The <code>{benchtm}</code> aims to generate simulated data sets of
 heterogeneous treatment effects in clinical trials for benchmarking
-quantitaive methods.
+quantitative methods.
 </h3>
 </td>
 <td align="center">
@@ -39,7 +39,7 @@ devtools::install_github("openpharma/benchtm")
 ## How to use the package
 
 An .html vignette with introduction to package can be previewed
-[here](https://raw.githack.com/openpharma/benchtm/master/docs/articles/index.html).
+[here](https://openpharma.github.io/benchtm/articles/index.html).
 
 ## Contact us
 
