@@ -13,6 +13,9 @@ Authors@R: c(
 Depends: R (>= 3.5.0)
 Description: This is an R package to generate data sets for
     benchmarking methods on heterogenous treatment effects.
+URL: https://bailliem.github.io/benchtm,
+    https://github.com/bailliem/benchtm
+BugReports: https://github.com/bailliem/benchtm/issues
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true

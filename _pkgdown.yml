@@ -1,8 +1,7 @@
 url: https://bailliem.github.io/benchtm
-destination: docs
 
 home:
   links:
   - text: Submit issues
-    href: https://github.com/openpharma/benchtm/issues
+    href: https://github.com/bailliem/benchtm/issues
 
